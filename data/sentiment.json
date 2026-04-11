@@ -1,12 +1,62 @@
 {
-  "updated_at": "2026-04-11T11:44:22.642887+00:00",
+  "updated_at": "2026-04-11T13:25:38.449128+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 0.0,
     "negative": 0.0
   },
   "by_topic": {
-    "#AI": {
+    "#ChatGPT": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#Claude": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#Gemini": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#Copilot": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#Grok": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#LLM": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#AGI": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#生成式AI": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#AIjobs": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#AItools": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0
+    },
+    "#automation": {
       "positive": 0.0,
       "neutral": 0.0,
       "negative": 0.0
