@@ -1,0 +1,85 @@
+{
+  "updated_at": "2026-04-11T06:00:00Z",
+  "topics": [
+    {
+      "tag": "#AI",
+      "count": 1523,
+      "trend_score": 98.5,
+      "total_likes": 45230,
+      "total_comments": 3210,
+      "change": "+100%",
+      "rank": 1,
+      "source": ["instagram", "threads"]
+    },
+    {
+      "tag": "#台灣",
+      "count": 1102,
+      "trend_score": 72.3,
+      "total_likes": 32100,
+      "total_comments": 2150,
+      "change": "+73%",
+      "rank": 2,
+      "source": ["instagram", "threads"]
+    },
+    {
+      "tag": "#科技",
+      "count": 890,
+      "trend_score": 61.8,
+      "total_likes": 28900,
+      "total_comments": 1830,
+      "change": "+63%",
+      "rank": 3,
+      "source": ["instagram"]
+    },
+    {
+      "tag": "#美食",
+      "count": 756,
+      "trend_score": 55.2,
+      "total_likes": 24500,
+      "total_comments": 1620,
+      "change": "+56%",
+      "rank": 4,
+      "source": ["instagram", "threads"]
+    },
+    {
+      "tag": "#旅遊",
+      "count": 643,
+      "trend_score": 48.1,
+      "total_likes": 19800,
+      "total_comments": 1240,
+      "change": "+49%",
+      "rank": 5,
+      "source": ["threads"]
+    },
+    {
+      "tag": "#生活",
+      "count": 521,
+      "trend_score": 39.6,
+      "total_likes": 15300,
+      "total_comments": 980,
+      "change": "+40%",
+      "rank": 6,
+      "source": ["instagram"]
+    },
+    {
+      "tag": "#時尚",
+      "count": 412,
+      "trend_score": 31.4,
+      "total_likes": 13200,
+      "total_comments": 820,
+      "change": "+32%",
+      "rank": 7,
+      "source": ["instagram", "threads"]
+    },
+    {
+      "tag": "#健身",
+      "count": 389,
+      "trend_score": 28.9,
+      "total_likes": 11500,
+      "total_comments": 730,
+      "change": "+29%",
+      "rank": 8,
+      "source": ["instagram"]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  font: 16px/145% var(--sans);
+  color-scheme: light dark;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0;
+  background: #0f1117;
+  color: #e2e8f0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* recharts tooltip dark theme */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  background: #1e2130 !important;
+  border-color: #334155 !important;
+  border-radius: 8px !important;
+}
+.recharts-default-tooltip .recharts-tooltip-label {
+  color: #94a3b8 !important;
+}
+.recharts-default-tooltip .recharts-tooltip-item {
+  color: #e2e8f0 !important;
+}

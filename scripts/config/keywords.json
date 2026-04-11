@@ -1,0 +1,12 @@
+{
+  "custom_keywords": [
+    "AI",
+    "台灣",
+    "科技",
+    "美食",
+    "旅遊"
+  ],
+  "auto_discover": true,
+  "max_posts_per_tag": 50,
+  "platforms": ["instagram", "threads"]
+}
