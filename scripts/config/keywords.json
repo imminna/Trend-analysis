@@ -7,6 +7,6 @@
     "旅遊"
   ],
   "auto_discover": true,
-  "max_posts_per_tag": 50,
-  "platforms": ["instagram", "threads"]
+  "max_posts_per_tag": 30,
+  "platforms": ["threads"]
 }

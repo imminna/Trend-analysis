@@ -36,7 +36,7 @@ jobs:
       - name: Run crawler
         run: python scripts/main.py ${{ github.event.inputs.keywords && format('--keywords "{0}"', github.event.inputs.keywords) || '' }}
         env:
-          IG_SESSION_ID: ${{ secrets.IG_SESSION_ID }}
+          # IG_SESSION_ID: ${{ secrets.IG_SESSION_ID }}  # 暫不使用，改用訪客模式
           THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
 
       - name: Commit data files
