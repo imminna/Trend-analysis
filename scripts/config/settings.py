@@ -6,9 +6,7 @@ BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
 CONFIG_DIR = Path(__file__).parent
 
-# 從環境變數讀取認證資訊（GitHub Secrets）
-IG_SESSION_ID = os.environ.get("IG_SESSION_ID", "")
-THREADS_TOKEN = os.environ.get("THREADS_TOKEN", "")
+# 公開模式，不需要任何 token
 
 # 爬蟲設定
 RATE_LIMIT_MIN = 2.0   # 最小間隔秒數
