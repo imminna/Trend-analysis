@@ -9,20 +9,26 @@ from collections import Counter
 
 logger = logging.getLogger(__name__)
 
-# 確保 nltk 資料已下載
-try:
-    nltk.data.find("tokenizers/punkt")
-except LookupError:
-    nltk.download("punkt", quiet=True)
-try:
-    nltk.data.find("corpora/stopwords")
-except LookupError:
-    nltk.download("stopwords", quiet=True)
+# 確保 nltk 資料已下載（nltk 3.9+ 改用 punkt_tab，保持向下相容）
+for resource, pkg in [
+    ("tokenizers/punkt_tab", "punkt_tab"),
+    ("tokenizers/punkt", "punkt"),
+    ("corpora/stopwords", "stopwords"),
+]:
+    try:
+        nltk.data.find(resource)
+    except LookupError:
+        nltk.download(pkg, quiet=True)
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-EN_STOPWORDS = set(stopwords.words("english"))
+EN_STOPWORDS = set(stopwords.words("english")) | {
+    # 網頁 / Markdown / Reddit 殘留雜訊
+    "http", "https", "www", "com", "amp", "jpg", "png", "gif",
+    "reddit", "subreddit", "post", "comment", "edit", "via",
+    "img", "src", "href", "html", "css", "quot",
+}
 ZH_STOPWORDS = {"的", "了", "在", "是", "我", "有", "和", "就", "不", "人", "都", "一", "一個", "上", "也", "很", "到", "說", "要", "去", "你", "會", "著", "沒有", "看", "好", "自己", "這"}
 
 
@@ -31,18 +37,28 @@ def extract_keywords(posts: List[Dict], top_n: int = 50) -> List[Dict]:
     從一批貼文中提取高頻關鍵字，混合中英文。
     回傳格式：[{"text": "keyword", "value": frequency}, ...]
     """
-    all_texts = " ".join(post.get("text", "") for post in posts)
+    raw = " ".join(post.get("text", "") for post in posts)
+    # 移除 URL 和 HTML 實體，避免汙染關鍵字
+    all_texts = re.sub(r"https?://\S+", " ", raw)
+    all_texts = re.sub(r"&\w+;", " ", all_texts)
     if not all_texts.strip():
         return []
 
     zh_words = _extract_chinese_keywords(all_texts)
     en_words = _extract_english_keywords(all_texts)
 
-    # 合併計數
-    combined = Counter(zh_words) + Counter(en_words)
+    # 合併計數：ASCII 詞（含 jieba 誤抓的英文）統一小寫後合併
+    combined: Counter = Counter()
+    for word, cnt in (zh_words + en_words).items():
+        key = word.lower() if word.isascii() else word
+        combined[key] += cnt
 
-    # 過濾太短的詞
-    filtered = {k: v for k, v in combined.items() if len(k) >= 2}
+    # 過濾：長度 < 2、純數字、或含非字母非中文字元（去除 ... 等符號殘留）
+    filtered = {
+        k: v for k, v in combined.items()
+        if len(k) >= 2 and not k.isdigit()
+        and (not k.isascii() or k.isalpha())
+    }
 
     # 取前 top_n，按頻率排序
     sorted_keywords = sorted(filtered.items(), key=lambda x: x[1], reverse=True)[:top_n]

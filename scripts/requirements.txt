@@ -1,9 +1,8 @@
 instaloader==4.13.1
 requests==2.31.0
+pytrends==4.9.2
 snownlp==0.12.3
 vaderSentiment==3.3.2
 jieba==0.42.1
 nltk==3.8.1
 langdetect==1.0.9
-scikit-learn==1.4.0
-numpy==1.26.4

@@ -18,5 +18,5 @@
   ],
   "auto_discover": true,
   "max_posts_per_tag": 30,
-  "platforms": ["threads"]
+  "platforms": ["google_trends", "reddit"]
 }

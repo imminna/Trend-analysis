@@ -19,6 +19,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from config.settings import DATA_DIR, load_keywords_config
 from crawlers.instagram_crawler import InstagramCrawler
 from crawlers.threads_crawler import ThreadsCrawler
+from crawlers.google_trends_crawler import GoogleTrendsCrawler
+from crawlers.reddit_crawler import RedditCrawler
 from analyzers.sentiment_analyzer import aggregate_sentiments
 from analyzers.keyword_extractor import extract_keywords
 from analyzers.trend_calculator import aggregate_topic_stats, rank_topics
@@ -70,6 +72,16 @@ def main():
             crawlers.append(ThreadsCrawler())
         except Exception as e:
             logger.error(f"Threads 爬蟲初始化失敗: {e}")
+    if "google_trends" in platforms:
+        try:
+            crawlers.append(GoogleTrendsCrawler())
+        except Exception as e:
+            logger.error(f"Google Trends 爬蟲初始化失敗: {e}")
+    if "reddit" in platforms:
+        try:
+            crawlers.append(RedditCrawler())
+        except Exception as e:
+            logger.error(f"Reddit 爬蟲初始化失敗: {e}")
 
     # 抓取自動熱門話題（各平台）
     auto_tags = []
