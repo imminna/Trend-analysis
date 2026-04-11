@@ -1,35 +1,4 @@
 {
-  "updated_at": "2026-04-11T06:00:00Z",
-  "words": [
-    { "text": "人工智慧", "value": 100 },
-    { "text": "台灣", "value": 92 },
-    { "text": "科技", "value": 85 },
-    { "text": "創新", "value": 78 },
-    { "text": "AI", "value": 96 },
-    { "text": "美食", "value": 74 },
-    { "text": "旅遊", "value": 68 },
-    { "text": "技術", "value": 72 },
-    { "text": "生活", "value": 65 },
-    { "text": "數位", "value": 63 },
-    { "text": "未來", "value": 60 },
-    { "text": "health", "value": 45 },
-    { "text": "travel", "value": 42 },
-    { "text": "food", "value": 48 },
-    { "text": "technology", "value": 55 },
-    { "text": "fitness", "value": 38 },
-    { "text": "機器學習", "value": 58 },
-    { "text": "智慧", "value": 52 },
-    { "text": "innovation", "value": 44 },
-    { "text": "fashion", "value": 36 },
-    { "text": "時尚", "value": 41 },
-    { "text": "健康", "value": 50 },
-    { "text": "culture", "value": 33 },
-    { "text": "文化", "value": 47 },
-    { "text": "startup", "value": 30 },
-    { "text": "網路", "value": 44 },
-    { "text": "設計", "value": 39 },
-    { "text": "數據", "value": 42 },
-    { "text": "app", "value": 35 },
-    { "text": "社群", "value": 48 }
-  ]
+  "updated_at": "2026-04-11T11:44:22.643197+00:00",
+  "words": []
 }
