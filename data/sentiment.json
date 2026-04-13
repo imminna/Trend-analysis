@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T18:50:46.143221+00:00",
+  "updated_at": "2026-04-13T02:37:58.606367+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -48,7 +48,7 @@
     },
     "#AIjobs": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AItools": {
@@ -63,7 +63,7 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#科技": {
@@ -78,7 +78,7 @@
     },
     "#旅遊": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     }
   }
