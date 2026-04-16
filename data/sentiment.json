@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T19:19:57.918398+00:00",
+  "updated_at": "2026-04-16T02:36:50.570815+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -13,7 +13,7 @@
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Gemini": {
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
