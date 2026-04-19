@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T07:20:51.916307+00:00",
+  "updated_at": "2026-04-19T13:02:35.020696+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -13,7 +13,7 @@
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Gemini": {
@@ -23,7 +23,7 @@
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -33,12 +33,12 @@
     },
     "#LLM": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#生成式AI": {
@@ -48,7 +48,7 @@
     },
     "#AIjobs": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AItools": {
@@ -58,7 +58,7 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#台灣": {
@@ -68,7 +68,7 @@
     },
     "#科技": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#美食": {
