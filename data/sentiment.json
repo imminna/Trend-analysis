@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T08:08:16.533711+00:00",
+  "updated_at": "2026-04-20T13:30:19.231333+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -8,7 +8,7 @@
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Claude": {
@@ -18,12 +18,12 @@
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -63,12 +63,12 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#科技": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#美食": {
