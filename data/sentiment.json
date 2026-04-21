@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T19:06:51.305005+00:00",
+  "updated_at": "2026-04-21T02:33:35.568547+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -33,12 +33,12 @@
     },
     "#LLM": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#生成式AI": {
@@ -58,7 +58,7 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#台灣": {
