@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T19:43:06.677896+00:00",
+  "updated_at": "2026-04-29T02:49:50.523516+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -33,7 +33,7 @@
     },
     "#LLM": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AGI": {
@@ -73,7 +73,7 @@
     },
     "#美食": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#旅遊": {
