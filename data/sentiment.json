@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T13:19:19.570776+00:00",
+  "updated_at": "2026-05-01T19:12:46.462111+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -8,27 +8,27 @@
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -43,7 +43,7 @@
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
@@ -63,12 +63,12 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#科技": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#美食": {
