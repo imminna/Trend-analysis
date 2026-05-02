@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T13:11:31.215253+00:00",
+  "updated_at": "2026-05-02T19:00:33.333561+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -43,7 +43,7 @@
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
@@ -78,7 +78,7 @@
     },
     "#旅遊": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     }
   }
