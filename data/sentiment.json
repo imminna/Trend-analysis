@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-04T08:30:48.868959+00:00",
+  "updated_at": "2026-05-04T14:00:22.109191+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 100.0,
+    "neutral": 0.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -18,7 +18,7 @@
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Copilot": {
@@ -28,7 +28,7 @@
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -38,12 +38,12 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AIjobs": {
@@ -58,7 +58,7 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#台灣": {
