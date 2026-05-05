@@ -1,32 +1,28 @@
 {
-  "updated_at": "2026-05-05T08:10:48.938979+00:00",
+  "updated_at": "2026-05-05T13:54:47.483012+00:00",
   "topics": [
     {
-      "tag": "#Copilot",
-      "count": 28,
-      "trend_score": 1108.06,
-      "total_likes": 146900,
+      "tag": "#ChatGPT",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 1,
-      "change": "+100%"
+      "change": "+0%"
     },
     {
       "tag": "#Claude",
-      "count": 30,
-      "trend_score": 1037.15,
-      "total_likes": 137500,
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 2,
-      "change": "+94%"
+      "change": "+0%"
     },
     {
-      "tag": "#ChatGPT",
+      "tag": "#Gemini",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -36,7 +32,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#Gemini",
+      "tag": "#Copilot",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
