@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T14:10:16.383523+00:00",
+  "updated_at": "2026-05-06T19:47:28.421432+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 0.0,
+    "neutral": 100.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -63,12 +63,12 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#科技": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#美食": {
