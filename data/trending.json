@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-10T08:09:07.135424+00:00",
+  "updated_at": "2026-05-10T13:18:47.549141+00:00",
   "topics": [
     {
-      "tag": "#旅遊",
-      "count": 30,
-      "trend_score": 1706.96,
-      "total_likes": 226300,
+      "tag": "#automation",
+      "count": 7,
+      "trend_score": 221.76,
+      "total_likes": 29400,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -14,64 +14,14 @@
       "change": "+100%"
     },
     {
-      "tag": "#美食",
-      "count": 30,
-      "trend_score": 1264.95,
-      "total_likes": 167700,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 2,
-      "change": "+74%"
-    },
-    {
-      "tag": "#Gemini",
-      "count": 30,
-      "trend_score": 1120.12,
-      "total_likes": 148500,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 3,
-      "change": "+66%"
-    },
-    {
       "tag": "#ChatGPT",
-      "count": 30,
-      "trend_score": 1016.03,
-      "total_likes": 134700,
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 4,
-      "change": "+60%"
-    },
-    {
-      "tag": "#科技",
-      "count": 30,
-      "trend_score": 841.79,
-      "total_likes": 111600,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 5,
-      "change": "+49%"
-    },
-    {
-      "tag": "#automation",
-      "count": 9,
-      "trend_score": 321.33,
-      "total_likes": 42600,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 6,
-      "change": "+19%"
+      "source": [],
+      "rank": 2,
+      "change": "+0%"
     },
     {
       "tag": "#Claude",
@@ -80,7 +30,17 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 7,
+      "rank": 3,
+      "change": "+0%"
+    },
+    {
+      "tag": "#Gemini",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 4,
       "change": "+0%"
     },
     {
@@ -90,7 +50,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 8,
+      "rank": 5,
       "change": "+0%"
     },
     {
@@ -100,7 +60,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 9,
+      "rank": 6,
       "change": "+0%"
     },
     {
@@ -110,7 +70,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 10,
+      "rank": 7,
       "change": "+0%"
     },
     {
@@ -120,7 +80,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 11,
+      "rank": 8,
       "change": "+0%"
     },
     {
@@ -130,7 +90,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 12,
+      "rank": 9,
       "change": "+0%"
     },
     {
@@ -140,7 +100,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 13,
+      "rank": 10,
       "change": "+0%"
     },
     {
@@ -150,11 +110,41 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 14,
+      "rank": 11,
       "change": "+0%"
     },
     {
       "tag": "#台灣",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 12,
+      "change": "+0%"
+    },
+    {
+      "tag": "#科技",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 13,
+      "change": "+0%"
+    },
+    {
+      "tag": "#美食",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 14,
+      "change": "+0%"
+    },
+    {
+      "tag": "#旅遊",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
