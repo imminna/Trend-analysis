@@ -1,20 +1,18 @@
 {
-  "updated_at": "2026-05-12T08:41:05.584807+00:00",
+  "updated_at": "2026-05-12T14:25:27.823544+00:00",
   "topics": [
     {
-      "tag": "#Gemini",
-      "count": 30,
-      "trend_score": 1527.44,
-      "total_likes": 202500,
+      "tag": "#ChatGPT",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 1,
-      "change": "+100%"
+      "change": "+0%"
     },
     {
-      "tag": "#ChatGPT",
+      "tag": "#Claude",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -24,7 +22,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#Claude",
+      "tag": "#Gemini",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
