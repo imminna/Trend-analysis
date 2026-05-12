@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-12T14:25:27.825790+00:00",
+  "updated_at": "2026-05-12T19:52:31.014778+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 0.0,
+    "neutral": 100.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -28,7 +28,7 @@
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -38,12 +38,12 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
@@ -78,7 +78,7 @@
     },
     "#旅遊": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     }
   }
