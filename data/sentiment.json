@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T08:29:26.144507+00:00",
+  "updated_at": "2026-05-30T13:29:10.563148+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -48,12 +48,12 @@
     },
     "#AIjobs": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AItools": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#automation": {
