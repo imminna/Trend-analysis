@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T20:56:54.374794+00:00",
+  "updated_at": "2026-06-04T03:55:57.301293+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -13,17 +13,17 @@
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Grok": {
