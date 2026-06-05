@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T14:50:47.867752+00:00",
+  "updated_at": "2026-06-05T19:55:47.426968+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -23,7 +23,7 @@
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -43,12 +43,12 @@
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AIjobs": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AItools": {
@@ -63,7 +63,7 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#科技": {
@@ -73,7 +73,7 @@
     },
     "#美食": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#旅遊": {
