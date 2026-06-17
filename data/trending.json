@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-17T04:02:00.774850+00:00",
+  "updated_at": "2026-06-17T10:55:18.272575+00:00",
   "topics": [
     {
-      "tag": "#旅遊",
+      "tag": "#科技",
       "count": 30,
-      "trend_score": 1555.35,
-      "total_likes": 206200,
+      "trend_score": 1515.37,
+      "total_likes": 200900,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -14,79 +14,71 @@
       "change": "+100%"
     },
     {
-      "tag": "#ChatGPT",
+      "tag": "#美食",
       "count": 30,
-      "trend_score": 1317.75,
-      "total_likes": 174700,
+      "trend_score": 718.09,
+      "total_likes": 95200,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 2,
-      "change": "+85%"
+      "change": "+47%"
     },
     {
-      "tag": "#Grok",
-      "count": 30,
-      "trend_score": 1158.59,
-      "total_likes": 153600,
+      "tag": "#AGI",
+      "count": 10,
+      "trend_score": 116.16,
+      "total_likes": 15400,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 3,
-      "change": "+74%"
+      "change": "+8%"
+    },
+    {
+      "tag": "#ChatGPT",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 4,
+      "change": "+0%"
     },
     {
       "tag": "#Claude",
-      "count": 30,
-      "trend_score": 1155.58,
-      "total_likes": 153200,
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 4,
-      "change": "+74%"
-    },
-    {
-      "tag": "#LLM",
-      "count": 27,
-      "trend_score": 1056.01,
-      "total_likes": 140000,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 5,
-      "change": "+68%"
-    },
-    {
-      "tag": "#Copilot",
-      "count": 25,
-      "trend_score": 951.16,
-      "total_likes": 126100,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 6,
-      "change": "+61%"
+      "change": "+0%"
     },
     {
       "tag": "#Gemini",
-      "count": 30,
-      "trend_score": 818.41,
-      "total_likes": 108500,
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 7,
-      "change": "+53%"
+      "source": [],
+      "rank": 6,
+      "change": "+0%"
     },
     {
-      "tag": "#AGI",
+      "tag": "#Copilot",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 7,
+      "change": "+0%"
+    },
+    {
+      "tag": "#Grok",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -96,7 +88,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#生成式AI",
+      "tag": "#LLM",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -106,7 +98,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#AIjobs",
+      "tag": "#生成式AI",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -116,7 +108,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#AItools",
+      "tag": "#AIjobs",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -126,7 +118,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#automation",
+      "tag": "#AItools",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -136,7 +128,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#台灣",
+      "tag": "#automation",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -146,7 +138,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#科技",
+      "tag": "#台灣",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -156,7 +148,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#美食",
+      "tag": "#旅遊",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
