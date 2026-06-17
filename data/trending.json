@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-06-17T10:55:18.272575+00:00",
+  "updated_at": "2026-06-17T15:28:06.131135+00:00",
   "topics": [
-    {
-      "tag": "#科技",
-      "count": 30,
-      "trend_score": 1515.37,
-      "total_likes": 200900,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 1,
-      "change": "+100%"
-    },
-    {
-      "tag": "#美食",
-      "count": 30,
-      "trend_score": 718.09,
-      "total_likes": 95200,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 2,
-      "change": "+47%"
-    },
-    {
-      "tag": "#AGI",
-      "count": 10,
-      "trend_score": 116.16,
-      "total_likes": 15400,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 3,
-      "change": "+8%"
-    },
     {
       "tag": "#ChatGPT",
       "count": 0,
@@ -44,7 +8,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 4,
+      "rank": 1,
       "change": "+0%"
     },
     {
@@ -54,7 +18,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 5,
+      "rank": 2,
       "change": "+0%"
     },
     {
@@ -64,7 +28,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 6,
+      "rank": 3,
       "change": "+0%"
     },
     {
@@ -74,7 +38,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 7,
+      "rank": 4,
       "change": "+0%"
     },
     {
@@ -84,7 +48,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 8,
+      "rank": 5,
       "change": "+0%"
     },
     {
@@ -94,7 +58,17 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 9,
+      "rank": 6,
+      "change": "+0%"
+    },
+    {
+      "tag": "#AGI",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 7,
       "change": "+0%"
     },
     {
@@ -104,7 +78,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 10,
+      "rank": 8,
       "change": "+0%"
     },
     {
@@ -114,7 +88,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 11,
+      "rank": 9,
       "change": "+0%"
     },
     {
@@ -124,7 +98,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 12,
+      "rank": 10,
       "change": "+0%"
     },
     {
@@ -134,11 +108,31 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 13,
+      "rank": 11,
       "change": "+0%"
     },
     {
       "tag": "#台灣",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 12,
+      "change": "+0%"
+    },
+    {
+      "tag": "#科技",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 13,
+      "change": "+0%"
+    },
+    {
+      "tag": "#美食",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
