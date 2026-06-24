@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-06-24T09:29:21.596983+00:00",
+  "updated_at": "2026-06-24T14:29:51.564549+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 0.0,
+    "neutral": 100.0,
     "negative": 0.0
   },
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
@@ -78,7 +78,7 @@
     },
     "#旅遊": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     }
   }
