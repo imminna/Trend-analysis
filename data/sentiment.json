@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T19:58:03.687967+00:00",
+  "updated_at": "2026-06-30T03:35:06.125421+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -13,12 +13,12 @@
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Copilot": {
@@ -58,12 +58,12 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#科技": {
