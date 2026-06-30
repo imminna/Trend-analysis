@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-30T09:34:56.253991+00:00",
+  "updated_at": "2026-06-30T14:17:59.390716+00:00",
   "topics": [
     {
-      "tag": "#ChatGPT",
-      "count": 30,
-      "trend_score": 1281.54,
-      "total_likes": 169900,
+      "tag": "#生成式AI",
+      "count": 13,
+      "trend_score": 551.39,
+      "total_likes": 73100,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -14,40 +14,24 @@
       "change": "+100%"
     },
     {
-      "tag": "#Claude",
-      "count": 30,
-      "trend_score": 1117.11,
-      "total_likes": 148100,
+      "tag": "#ChatGPT",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 2,
-      "change": "+87%"
+      "change": "+0%"
     },
     {
-      "tag": "#Grok",
-      "count": 30,
-      "trend_score": 1062.8,
-      "total_likes": 140900,
+      "tag": "#Claude",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 3,
-      "change": "+83%"
-    },
-    {
-      "tag": "#LLM",
-      "count": 29,
-      "trend_score": 715.82,
-      "total_likes": 94900,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 4,
-      "change": "+56%"
+      "change": "+0%"
     },
     {
       "tag": "#Gemini",
@@ -56,7 +40,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 5,
+      "rank": 4,
       "change": "+0%"
     },
     {
@@ -66,11 +50,21 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
+      "rank": 5,
+      "change": "+0%"
+    },
+    {
+      "tag": "#Grok",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
       "rank": 6,
       "change": "+0%"
     },
     {
-      "tag": "#AGI",
+      "tag": "#LLM",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -80,7 +74,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#生成式AI",
+      "tag": "#AGI",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
