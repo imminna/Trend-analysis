@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T19:24:51.208907+00:00",
+  "updated_at": "2026-07-03T02:52:33.379598+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -23,7 +23,7 @@
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -53,7 +53,7 @@
     },
     "#AItools": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#automation": {
