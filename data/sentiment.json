@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T13:24:20.768500+00:00",
+  "updated_at": "2026-07-04T19:12:17.574579+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
