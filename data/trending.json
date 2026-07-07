@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-07T09:40:40.738332+00:00",
+  "updated_at": "2026-07-07T14:32:23.388077+00:00",
   "topics": [
     {
-      "tag": "#ChatGPT",
+      "tag": "#科技",
       "count": 30,
-      "trend_score": 1281.54,
-      "total_likes": 169900,
+      "trend_score": 1393.18,
+      "total_likes": 184700,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -14,28 +14,26 @@
       "change": "+100%"
     },
     {
-      "tag": "#Gemini",
-      "count": 30,
-      "trend_score": 1035.64,
-      "total_likes": 137300,
+      "tag": "#Copilot",
+      "count": 22,
+      "trend_score": 788.99,
+      "total_likes": 104600,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 2,
-      "change": "+81%"
+      "change": "+57%"
     },
     {
-      "tag": "#生成式AI",
-      "count": 17,
-      "trend_score": 768.62,
-      "total_likes": 101900,
+      "tag": "#ChatGPT",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 3,
-      "change": "+60%"
+      "change": "+0%"
     },
     {
       "tag": "#Claude",
@@ -48,7 +46,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#Copilot",
+      "tag": "#Gemini",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -88,7 +86,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#AIjobs",
+      "tag": "#生成式AI",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -98,7 +96,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#AItools",
+      "tag": "#AIjobs",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -108,7 +106,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#automation",
+      "tag": "#AItools",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -118,7 +116,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#台灣",
+      "tag": "#automation",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -128,7 +126,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#科技",
+      "tag": "#台灣",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
