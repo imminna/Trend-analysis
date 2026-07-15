@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T19:19:42.333589+00:00",
+  "updated_at": "2026-07-15T02:23:01.372350+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -8,12 +8,12 @@
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Gemini": {
@@ -28,7 +28,7 @@
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -38,12 +38,12 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
@@ -53,7 +53,7 @@
     },
     "#AItools": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#automation": {
