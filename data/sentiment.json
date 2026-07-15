@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15T08:09:05.687324+00:00",
+  "updated_at": "2026-07-15T13:42:40.374438+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 100.0,
+    "neutral": 0.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -13,22 +13,22 @@
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -63,12 +63,12 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#科技": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#美食": {
