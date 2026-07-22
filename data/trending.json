@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-22T02:32:44.300236+00:00",
+  "updated_at": "2026-07-22T08:28:38.890739+00:00",
   "topics": [
     {
-      "tag": "#生成式AI",
-      "count": 19,
-      "trend_score": 550.63,
-      "total_likes": 73000,
+      "tag": "#台灣",
+      "count": 30,
+      "trend_score": 1835.19,
+      "total_likes": 243300,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -14,25 +14,13 @@
       "change": "+100%"
     },
     {
-      "tag": "#AItools",
-      "count": 1,
-      "trend_score": 75.43,
-      "total_likes": 10000,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 2,
-      "change": "+14%"
-    },
-    {
       "tag": "#ChatGPT",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 3,
+      "rank": 2,
       "change": "+0%"
     },
     {
@@ -42,7 +30,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 4,
+      "rank": 3,
       "change": "+0%"
     },
     {
@@ -52,7 +40,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 5,
+      "rank": 4,
       "change": "+0%"
     },
     {
@@ -62,7 +50,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 6,
+      "rank": 5,
       "change": "+0%"
     },
     {
@@ -72,7 +60,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 7,
+      "rank": 6,
       "change": "+0%"
     },
     {
@@ -82,11 +70,21 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 8,
+      "rank": 7,
       "change": "+0%"
     },
     {
       "tag": "#AGI",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 8,
+      "change": "+0%"
+    },
+    {
+      "tag": "#生成式AI",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -106,7 +104,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#automation",
+      "tag": "#AItools",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -116,7 +114,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#台灣",
+      "tag": "#automation",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
