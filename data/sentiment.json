@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T19:17:34.108709+00:00",
+  "updated_at": "2026-07-23T02:37:41.408408+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -18,12 +18,12 @@
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -73,7 +73,7 @@
     },
     "#美食": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#旅遊": {
