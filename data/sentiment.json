@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-23T08:29:34.927830+00:00",
+  "updated_at": "2026-07-23T13:55:56.510006+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 100.0,
+    "neutral": 0.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -58,7 +58,7 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#台灣": {
