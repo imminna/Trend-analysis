@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-27T19:27:24.595504+00:00",
+  "updated_at": "2026-07-28T02:27:33.170929+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 0.0,
+    "neutral": 100.0,
     "negative": 0.0
   },
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Claude": {
@@ -23,12 +23,12 @@
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#LLM": {
