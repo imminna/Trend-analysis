@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28T08:33:39.812981+00:00",
+  "updated_at": "2026-07-28T14:05:11.977386+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 0.0,
+    "neutral": 100.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
@@ -78,7 +78,7 @@
     },
     "#旅遊": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     }
   }
