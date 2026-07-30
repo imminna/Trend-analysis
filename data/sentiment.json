@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-29T19:15:41.946769+00:00",
+  "updated_at": "2026-07-30T02:14:04.394589+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 100.0,
+    "neutral": 0.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -18,12 +18,12 @@
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#生成式AI": {
@@ -73,7 +73,7 @@
     },
     "#美食": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#旅遊": {
