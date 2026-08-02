@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T02:39:18.473367+00:00",
+  "updated_at": "2026-08-02T08:24:24.129259+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -43,7 +43,7 @@
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#AIjobs": {
@@ -63,12 +63,12 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#科技": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#美食": {
