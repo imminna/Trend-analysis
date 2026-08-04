@@ -1,48 +1,56 @@
 {
-  "updated_at": "2026-08-04T08:36:07.190612+00:00",
+  "updated_at": "2026-08-04T14:09:37.783737+00:00",
   "topics": [
     {
-      "tag": "#ChatGPT",
-      "count": 0,
-      "trend_score": 0.0,
-      "total_likes": 0,
+      "tag": "#Gemini",
+      "count": 30,
+      "trend_score": 1154.07,
+      "total_likes": 153000,
       "total_comments": 0,
-      "source": [],
+      "source": [
+        "google_trends"
+      ],
       "rank": 1,
-      "change": "+0%"
+      "change": "+100%"
     },
     {
       "tag": "#Claude",
-      "count": 0,
-      "trend_score": 0.0,
-      "total_likes": 0,
+      "count": 30,
+      "trend_score": 1106.55,
+      "total_likes": 146700,
       "total_comments": 0,
-      "source": [],
+      "source": [
+        "google_trends"
+      ],
       "rank": 2,
-      "change": "+0%"
+      "change": "+96%"
     },
     {
-      "tag": "#Gemini",
-      "count": 0,
-      "trend_score": 0.0,
-      "total_likes": 0,
+      "tag": "#LLM",
+      "count": 22,
+      "trend_score": 823.69,
+      "total_likes": 109200,
       "total_comments": 0,
-      "source": [],
+      "source": [
+        "google_trends"
+      ],
       "rank": 3,
-      "change": "+0%"
+      "change": "+71%"
     },
     {
-      "tag": "#Copilot",
-      "count": 0,
-      "trend_score": 0.0,
-      "total_likes": 0,
+      "tag": "#automation",
+      "count": 19,
+      "trend_score": 356.78,
+      "total_likes": 47300,
       "total_comments": 0,
-      "source": [],
+      "source": [
+        "google_trends"
+      ],
       "rank": 4,
-      "change": "+0%"
+      "change": "+31%"
     },
     {
-      "tag": "#Grok",
+      "tag": "#ChatGPT",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -52,7 +60,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#LLM",
+      "tag": "#Copilot",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -62,7 +70,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#AGI",
+      "tag": "#Grok",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -72,7 +80,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#生成式AI",
+      "tag": "#AGI",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -82,7 +90,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#AIjobs",
+      "tag": "#生成式AI",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -92,7 +100,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#AItools",
+      "tag": "#AIjobs",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -102,7 +110,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#automation",
+      "tag": "#AItools",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
