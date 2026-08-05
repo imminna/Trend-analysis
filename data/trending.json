@@ -1,30 +1,6 @@
 {
-  "updated_at": "2026-08-05T08:35:28.156804+00:00",
+  "updated_at": "2026-08-05T14:07:22.790423+00:00",
   "topics": [
-    {
-      "tag": "#Grok",
-      "count": 30,
-      "trend_score": 1165.38,
-      "total_likes": 154500,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 1,
-      "change": "+100%"
-    },
-    {
-      "tag": "#Copilot",
-      "count": 24,
-      "trend_score": 972.28,
-      "total_likes": 128900,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 2,
-      "change": "+83%"
-    },
     {
       "tag": "#ChatGPT",
       "count": 0,
@@ -32,7 +8,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 3,
+      "rank": 1,
       "change": "+0%"
     },
     {
@@ -42,11 +18,31 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 4,
+      "rank": 2,
       "change": "+0%"
     },
     {
       "tag": "#Gemini",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 3,
+      "change": "+0%"
+    },
+    {
+      "tag": "#Copilot",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 4,
+      "change": "+0%"
+    },
+    {
+      "tag": "#Grok",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
