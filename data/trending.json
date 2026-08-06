@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-06T02:28:00.049978+00:00",
+  "updated_at": "2026-08-06T08:35:30.699798+00:00",
   "topics": [
     {
-      "tag": "#Gemini",
+      "tag": "#台灣",
       "count": 30,
-      "trend_score": 1185.75,
-      "total_likes": 157200,
+      "trend_score": 1842.74,
+      "total_likes": 244300,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -14,52 +14,52 @@
       "change": "+100%"
     },
     {
-      "tag": "#Copilot",
-      "count": 21,
-      "trend_score": 835.0,
-      "total_likes": 110700,
+      "tag": "#Claude",
+      "count": 30,
+      "trend_score": 1488.22,
+      "total_likes": 197300,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 2,
-      "change": "+70%"
+      "change": "+81%"
     },
     {
-      "tag": "#美食",
+      "tag": "#Gemini",
       "count": 30,
-      "trend_score": 641.15,
-      "total_likes": 85000,
+      "trend_score": 1362.25,
+      "total_likes": 180600,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 3,
-      "change": "+54%"
+      "change": "+74%"
     },
     {
-      "tag": "#生成式AI",
-      "count": 12,
-      "trend_score": 225.53,
-      "total_likes": 29900,
+      "tag": "#LLM",
+      "count": 25,
+      "trend_score": 1080.15,
+      "total_likes": 143200,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 4,
-      "change": "+19%"
+      "change": "+59%"
     },
     {
       "tag": "#AGI",
-      "count": 6,
-      "trend_score": 211.96,
-      "total_likes": 28100,
+      "count": 8,
+      "trend_score": 374.88,
+      "total_likes": 49700,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 5,
-      "change": "+18%"
+      "change": "+20%"
     },
     {
       "tag": "#ChatGPT",
@@ -72,7 +72,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#Claude",
+      "tag": "#Copilot",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -92,7 +92,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#LLM",
+      "tag": "#生成式AI",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -132,7 +132,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#台灣",
+      "tag": "#科技",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
@@ -142,7 +142,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#科技",
+      "tag": "#美食",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
