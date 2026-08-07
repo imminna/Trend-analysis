@@ -1,54 +1,6 @@
 {
-  "updated_at": "2026-08-07T02:42:52.633497+00:00",
+  "updated_at": "2026-08-07T07:15:03.927657+00:00",
   "topics": [
-    {
-      "tag": "#科技",
-      "count": 30,
-      "trend_score": 1396.2,
-      "total_likes": 185100,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 1,
-      "change": "+100%"
-    },
-    {
-      "tag": "#Copilot",
-      "count": 22,
-      "trend_score": 833.49,
-      "total_likes": 110500,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 2,
-      "change": "+60%"
-    },
-    {
-      "tag": "#生成式AI",
-      "count": 13,
-      "trend_score": 665.29,
-      "total_likes": 88200,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 3,
-      "change": "+48%"
-    },
-    {
-      "tag": "#AGI",
-      "count": 1,
-      "trend_score": 12.07,
-      "total_likes": 1600,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 4,
-      "change": "+1%"
-    },
     {
       "tag": "#ChatGPT",
       "count": 0,
@@ -56,7 +8,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 5,
+      "rank": 1,
       "change": "+0%"
     },
     {
@@ -66,7 +18,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 6,
+      "rank": 2,
       "change": "+0%"
     },
     {
@@ -76,7 +28,17 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 7,
+      "rank": 3,
+      "change": "+0%"
+    },
+    {
+      "tag": "#Copilot",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 4,
       "change": "+0%"
     },
     {
@@ -86,7 +48,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 8,
+      "rank": 5,
       "change": "+0%"
     },
     {
@@ -96,7 +58,27 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 9,
+      "rank": 6,
+      "change": "+0%"
+    },
+    {
+      "tag": "#AGI",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 7,
+      "change": "+0%"
+    },
+    {
+      "tag": "#生成式AI",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 8,
       "change": "+0%"
     },
     {
@@ -106,7 +88,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 10,
+      "rank": 9,
       "change": "+0%"
     },
     {
@@ -116,7 +98,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 11,
+      "rank": 10,
       "change": "+0%"
     },
     {
@@ -126,11 +108,21 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 12,
+      "rank": 11,
       "change": "+0%"
     },
     {
       "tag": "#台灣",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 12,
+      "change": "+0%"
+    },
+    {
+      "tag": "#科技",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
