@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T07:26:23.790951+00:00",
+  "updated_at": "2026-08-13T13:08:09.543537+00:00",
   "overall": {
     "positive": 0.0,
-    "neutral": 100.0,
+    "neutral": 0.0,
     "negative": 0.0
   },
   "by_topic": {
@@ -63,7 +63,7 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#科技": {

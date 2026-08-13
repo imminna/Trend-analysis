@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-08-13T07:26:23.785851+00:00",
+  "updated_at": "2026-08-13T13:08:09.538092+00:00",
   "topics": [
-    {
-      "tag": "#台灣",
-      "count": 30,
-      "trend_score": 1918.17,
-      "total_likes": 254300,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 1,
-      "change": "+100%"
-    },
     {
       "tag": "#ChatGPT",
       "count": 0,
@@ -20,7 +8,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 2,
+      "rank": 1,
       "change": "+0%"
     },
     {
@@ -30,7 +18,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 3,
+      "rank": 2,
       "change": "+0%"
     },
     {
@@ -40,7 +28,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 4,
+      "rank": 3,
       "change": "+0%"
     },
     {
@@ -50,7 +38,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 5,
+      "rank": 4,
       "change": "+0%"
     },
     {
@@ -60,7 +48,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 6,
+      "rank": 5,
       "change": "+0%"
     },
     {
@@ -70,7 +58,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 7,
+      "rank": 6,
       "change": "+0%"
     },
     {
@@ -80,7 +68,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 8,
+      "rank": 7,
       "change": "+0%"
     },
     {
@@ -90,7 +78,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 9,
+      "rank": 8,
       "change": "+0%"
     },
     {
@@ -100,7 +88,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 10,
+      "rank": 9,
       "change": "+0%"
     },
     {
@@ -110,11 +98,21 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 11,
+      "rank": 10,
       "change": "+0%"
     },
     {
       "tag": "#automation",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 11,
+      "change": "+0%"
+    },
+    {
+      "tag": "#台灣",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
