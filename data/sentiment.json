@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T18:27:47.022124+00:00",
+  "updated_at": "2026-08-17T01:11:28.822704+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -8,22 +8,22 @@
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
