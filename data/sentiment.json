@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:09:16.473486+00:00",
+  "updated_at": "2026-08-22T06:38:47.121530+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -33,7 +33,7 @@
     },
     "#LLM": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AGI": {
@@ -43,7 +43,7 @@
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
