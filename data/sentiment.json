@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T06:56:46.720677+00:00",
+  "updated_at": "2026-08-24T12:47:39.620387+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -23,12 +23,12 @@
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -63,7 +63,7 @@
     },
     "#台灣": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#科技": {
@@ -73,12 +73,12 @@
     },
     "#美食": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#旅遊": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     }
   }
