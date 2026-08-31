@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T03:46:03.138487+00:00",
+  "updated_at": "2026-08-31T12:46:36.969557+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -18,7 +18,7 @@
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Copilot": {
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
@@ -68,7 +68,7 @@
     },
     "#科技": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#美食": {
