@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-01T16:07:04.539971+00:00",
+  "updated_at": "2026-09-01T20:36:47.053295+00:00",
   "topics": [
     {
-      "tag": "#科技",
+      "tag": "#旅遊",
       "count": 30,
-      "trend_score": 1335.1,
-      "total_likes": 177000,
+      "trend_score": 1392.42,
+      "total_likes": 184600,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -15,33 +15,33 @@
     },
     {
       "tag": "#Claude",
-      "count": 29,
-      "trend_score": 1281.54,
-      "total_likes": 169900,
+      "count": 30,
+      "trend_score": 1301.16,
+      "total_likes": 172500,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 2,
-      "change": "+96%"
+      "change": "+93%"
     },
     {
       "tag": "#ChatGPT",
       "count": 30,
-      "trend_score": 1190.27,
-      "total_likes": 157800,
+      "trend_score": 1196.31,
+      "total_likes": 158600,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 3,
-      "change": "+89%"
+      "change": "+86%"
     },
     {
       "tag": "#Gemini",
       "count": 30,
-      "trend_score": 1004.72,
-      "total_likes": 133200,
+      "trend_score": 1044.7,
+      "total_likes": 138500,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -51,27 +51,27 @@
     },
     {
       "tag": "#Copilot",
-      "count": 23,
-      "trend_score": 801.81,
-      "total_likes": 106300,
+      "count": 22,
+      "trend_score": 810.11,
+      "total_likes": 107400,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 5,
-      "change": "+60%"
+      "change": "+58%"
     },
     {
       "tag": "#美食",
       "count": 30,
-      "trend_score": 573.26,
-      "total_likes": 76000,
+      "trend_score": 544.6,
+      "total_likes": 72200,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 6,
-      "change": "+43%"
+      "change": "+39%"
     },
     {
       "tag": "#Grok",
@@ -154,7 +154,7 @@
       "change": "+0%"
     },
     {
-      "tag": "#旅遊",
+      "tag": "#科技",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
