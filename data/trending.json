@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-05T10:01:01.101927+00:00",
+  "updated_at": "2026-09-05T14:39:24.739818+00:00",
   "topics": [
     {
       "tag": "#台灣",
       "count": 30,
-      "trend_score": 1768.82,
-      "total_likes": 234500,
+      "trend_score": 1742.42,
+      "total_likes": 231000,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -16,68 +16,68 @@
     {
       "tag": "#旅遊",
       "count": 30,
-      "trend_score": 1467.85,
-      "total_likes": 194600,
+      "trend_score": 1472.38,
+      "total_likes": 195200,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 2,
-      "change": "+83%"
+      "change": "+85%"
     },
     {
       "tag": "#AGI",
-      "count": 24,
-      "trend_score": 1060.54,
-      "total_likes": 140600,
+      "count": 25,
+      "trend_score": 1110.32,
+      "total_likes": 147200,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 3,
-      "change": "+60%"
+      "change": "+64%"
     },
     {
       "tag": "#科技",
       "count": 30,
-      "trend_score": 1039.42,
-      "total_likes": 137800,
+      "trend_score": 1002.46,
+      "total_likes": 132900,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 4,
-      "change": "+59%"
-    },
-    {
-      "tag": "#Claude",
-      "count": 30,
-      "trend_score": 1032.63,
-      "total_likes": 136900,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 5,
       "change": "+58%"
     },
     {
       "tag": "#美食",
       "count": 30,
-      "trend_score": 917.97,
-      "total_likes": 121700,
+      "trend_score": 905.91,
+      "total_likes": 120100,
+      "total_comments": 0,
+      "source": [
+        "google_trends"
+      ],
+      "rank": 5,
+      "change": "+52%"
+    },
+    {
+      "tag": "#Claude",
+      "count": 30,
+      "trend_score": 862.91,
+      "total_likes": 114400,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 6,
-      "change": "+52%"
+      "change": "+50%"
     },
     {
       "tag": "#Gemini",
       "count": 30,
-      "trend_score": 849.33,
-      "total_likes": 112600,
+      "trend_score": 830.48,
+      "total_likes": 110100,
       "total_comments": 0,
       "source": [
         "google_trends"
@@ -88,86 +88,84 @@
     {
       "tag": "#Grok",
       "count": 30,
-      "trend_score": 729.4,
-      "total_likes": 96700,
+      "trend_score": 690.18,
+      "total_likes": 91500,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 8,
-      "change": "+41%"
+      "change": "+40%"
     },
     {
-      "tag": "#Copilot",
+      "tag": "#LLM",
       "count": 25,
-      "trend_score": 666.04,
-      "total_likes": 88300,
+      "trend_score": 490.29,
+      "total_likes": 65000,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 9,
-      "change": "+38%"
+      "change": "+28%"
     },
     {
-      "tag": "#LLM",
-      "count": 26,
-      "trend_score": 558.18,
-      "total_likes": 74000,
+      "tag": "#Copilot",
+      "count": 25,
+      "trend_score": 479.73,
+      "total_likes": 63600,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 10,
-      "change": "+32%"
+      "change": "+28%"
     },
     {
       "tag": "#ChatGPT",
       "count": 30,
-      "trend_score": 436.74,
-      "total_likes": 57900,
+      "trend_score": 378.65,
+      "total_likes": 50200,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 11,
-      "change": "+25%"
+      "change": "+22%"
     },
     {
-      "tag": "#生成式AI",
-      "count": 7,
-      "trend_score": 258.72,
-      "total_likes": 34300,
+      "tag": "#automation",
+      "count": 10,
+      "trend_score": 116.92,
+      "total_likes": 15500,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 12,
-      "change": "+15%"
+      "change": "+7%"
     },
     {
-      "tag": "#automation",
-      "count": 12,
-      "trend_score": 182.54,
-      "total_likes": 24200,
+      "tag": "#生成式AI",
+      "count": 2,
+      "trend_score": 55.06,
+      "total_likes": 7300,
       "total_comments": 0,
       "source": [
         "google_trends"
       ],
       "rank": 13,
-      "change": "+10%"
+      "change": "+3%"
     },
     {
       "tag": "#AIjobs",
-      "count": 1,
-      "trend_score": 75.43,
-      "total_likes": 10000,
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
       "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
+      "source": [],
       "rank": 14,
-      "change": "+4%"
+      "change": "+0%"
     },
     {
       "tag": "#AItools",
