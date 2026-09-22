@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T03:24:57.846596+00:00",
+  "updated_at": "2026-09-22T11:01:32.312358+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -43,7 +43,7 @@
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
@@ -53,12 +53,12 @@
     },
     "#AItools": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#台灣": {
