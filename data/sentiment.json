@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:08:38.749580+00:00",
+  "updated_at": "2026-09-24T03:15:31.730393+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -8,7 +8,7 @@
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Claude": {
