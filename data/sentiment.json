@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T12:59:21.837319+00:00",
+  "updated_at": "2026-09-28T22:59:12.426929+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -8,12 +8,12 @@
   "by_topic": {
     "#ChatGPT": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#Gemini": {
@@ -43,7 +43,7 @@
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
