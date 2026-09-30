@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T04:05:05.864306+00:00",
+  "updated_at": "2026-09-30T11:59:11.493505+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -13,12 +13,12 @@
     },
     "#Claude": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Gemini": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Copilot": {
@@ -28,7 +28,7 @@
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -53,7 +53,7 @@
     },
     "#AItools": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#automation": {
