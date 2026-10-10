@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T11:58:42.320771+00:00",
+  "updated_at": "2026-10-10T17:03:46.344619+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -28,7 +28,7 @@
     },
     "#Grok": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#LLM": {
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
