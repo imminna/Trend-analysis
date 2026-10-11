@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:13:18.366469+00:00",
+  "updated_at": "2026-10-11T04:07:14.997948+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -38,12 +38,12 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#AIjobs": {
