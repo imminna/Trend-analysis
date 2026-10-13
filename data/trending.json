@@ -1,30 +1,6 @@
 {
-  "updated_at": "2026-10-13T00:12:01.098092+00:00",
+  "updated_at": "2026-10-13T13:38:17.480511+00:00",
   "topics": [
-    {
-      "tag": "#automation",
-      "count": 7,
-      "trend_score": 246.65,
-      "total_likes": 32700,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 1,
-      "change": "+100%"
-    },
-    {
-      "tag": "#生成式AI",
-      "count": 12,
-      "trend_score": 205.17,
-      "total_likes": 27200,
-      "total_comments": 0,
-      "source": [
-        "google_trends"
-      ],
-      "rank": 2,
-      "change": "+83%"
-    },
     {
       "tag": "#ChatGPT",
       "count": 0,
@@ -32,7 +8,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 3,
+      "rank": 1,
       "change": "+0%"
     },
     {
@@ -42,7 +18,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 4,
+      "rank": 2,
       "change": "+0%"
     },
     {
@@ -52,7 +28,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 5,
+      "rank": 3,
       "change": "+0%"
     },
     {
@@ -62,7 +38,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 6,
+      "rank": 4,
       "change": "+0%"
     },
     {
@@ -72,7 +48,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 7,
+      "rank": 5,
       "change": "+0%"
     },
     {
@@ -82,7 +58,7 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 8,
+      "rank": 6,
       "change": "+0%"
     },
     {
@@ -92,7 +68,17 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 9,
+      "rank": 7,
+      "change": "+0%"
+    },
+    {
+      "tag": "#生成式AI",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 8,
       "change": "+0%"
     },
     {
@@ -102,11 +88,21 @@
       "total_likes": 0,
       "total_comments": 0,
       "source": [],
-      "rank": 10,
+      "rank": 9,
       "change": "+0%"
     },
     {
       "tag": "#AItools",
+      "count": 0,
+      "trend_score": 0.0,
+      "total_likes": 0,
+      "total_comments": 0,
+      "source": [],
+      "rank": 10,
+      "change": "+0%"
+    },
+    {
+      "tag": "#automation",
       "count": 0,
       "trend_score": 0.0,
       "total_likes": 0,
