@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:11:03.300682+00:00",
+  "updated_at": "2026-10-18T03:07:32.222854+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -58,7 +58,7 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#台灣": {
