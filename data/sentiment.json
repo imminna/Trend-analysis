@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:10:56.462009+00:00",
+  "updated_at": "2026-11-22T14:06:08.748614+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -23,7 +23,7 @@
     },
     "#Copilot": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#Grok": {
@@ -38,7 +38,7 @@
     },
     "#AGI": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#生成式AI": {
@@ -58,7 +58,7 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#台灣": {
