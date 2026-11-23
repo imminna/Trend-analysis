@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T23:17:53.963771+00:00",
+  "updated_at": "2026-11-23T05:52:11.462470+00:00",
   "overall": {
     "positive": 0.0,
     "neutral": 100.0,
@@ -58,7 +58,7 @@
     },
     "#automation": {
       "positive": 0.0,
-      "neutral": 0.0,
+      "neutral": 100.0,
       "negative": 0.0
     },
     "#台灣": {
@@ -73,7 +73,7 @@
     },
     "#美食": {
       "positive": 0.0,
-      "neutral": 100.0,
+      "neutral": 0.0,
       "negative": 0.0
     },
     "#旅遊": {
